@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/GoodsList/GoodsList.css","webpack://src/App.css"],"names":[],"mappings":"AAAA,YACE,WACF,CCFA,KACE,WAAY,CACZ,aACF,CAEA,KACE,UACF","file":"main.1489f0fe.chunk.css","sourcesContent":[".list-group {\n  width: 550px;\n}\n",".App {\n  width: 600px;\n  margin: 0 auto;\n}\n\n.btn {\n  margin: 6px;\n}\n"]}
